@@ -1,4 +1,4 @@
 target/
 .DS_Store
 *.class
-*.xml
+dependency-reduced-pom.xml
